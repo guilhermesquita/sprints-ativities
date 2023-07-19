@@ -1,10 +1,11 @@
-import { Login } from "./pages/signup/login"
+// import { Login } from "./pages/login/login"
+import { Signup } from "./pages/signup/signup"
 
 function App() {
 
   return (
     <>
-      <Login/>
+      <Signup/>
     </>
   )
 }
